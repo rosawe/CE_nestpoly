@@ -121,7 +121,7 @@ lrefine_max       = 6
 
 gr_lrefineMaxRedDoByLogR       = .true.
 #TODO
-gr_lrefineMaxRedRadiusFact     = 7000.e10  # 1000 rsun
+gr_lrefineMaxRedRadiusFact     = 3500.e10  # 500 rsun
 gr_lrefinemaxredlogbase	       = 1.397	
 #gr_lrefineMaxRedDoByTime = .true.
 #gr_lrefineMaxRedTimeScale = 1.e-9
